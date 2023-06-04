@@ -1,5 +1,5 @@
 # R-Code-Snippets
-o all R fellows 
+to all R fellows 
 
 
 
